@@ -32,7 +32,6 @@ def adding
 
 
   shipping_manifest["gun power"] = 4
-  end
 
 
   shipping_manifest
